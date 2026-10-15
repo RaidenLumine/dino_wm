@@ -2,3 +2,6 @@ __pycache__
 *.pyc
 outputs
 plan_outputs
+
+checkpoints/
+datasets/data/
